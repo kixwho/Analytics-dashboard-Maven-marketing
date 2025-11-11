@@ -9,4 +9,4 @@ Dataset analysis along with an interactive dashboard.
 
 **How it's going**:
 
-<img width="1497" height="753" alt="image" src="https://github.com/user-attachments/assets/2f554d95-c41e-452b-805f-3763c62a5bc8" />
+<img width="1492" height="788" alt="image" src="https://github.com/user-attachments/assets/34909014-cc51-490b-b45c-39b5fd140029" />
